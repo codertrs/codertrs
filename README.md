@@ -67,22 +67,7 @@
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
 
 
-### :dart: Weekly Fuck The Code
 
-<!--START_SECTION:waka-->
-
-```text
-TOML    40 mins         ████████████████████████▒   96.87 %
-Other   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-```
-
-<!--END_SECTION:waka-->
-
-### :sparkles: My Followers
-
-![Metrics](https://metrics.lecoq.io/itgoyo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
-
-<!--START_SECTION:top-followers-->
 <table>
   <tr>
     <td align="center">
