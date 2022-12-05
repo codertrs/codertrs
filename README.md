@@ -1,36 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm codertrs</h1>
 <h3 align="center">A passionate fullstack developer from China</h3>
+ 
+ <div dir="auto" align="center"> <a target="_blank" rel="noopener noreferrer" href="https://github.com/Leticia-maria/Leticia-maria/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/Leticia-maria/Leticia-maria/raw/output/github-contribution-grid-snake.svg" style="max-width: 100%;"></a></div>
+
 <h3 align="left">Languages and Tools:</h3>
-
-<div align='center'>
-  <a href="https://github.com/Leticia-maria">
-    <img src="https://img.shields.io/github/followers/Leticia-maria?color=green&label=GitHub&logo=GitHub&style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/Leticia-maria?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Leticia-maria"/>
-  </a>
-  <a href="https://medium.com/@lmadurei">
-    <img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@lmadurei"/>
-  </a>
-  <a href="https://www.linkedin.com/in/let%C3%ADcia-madureira-276b23180/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/let%C3%ADcia-madureira-276b23180/"/>
-  </a>
-  <a href="https://www.youtube.com/c/UCjGH-n0jtFDtaWAfC0LEE6w?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCjGH-n0jtFDtaWAfC0LEE6w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-  </a> 
-  <a href="https://www.youtube.com/c/UCjGH-n0jtFDtaWAfC0LEE6w">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCjGH-n0jtFDtaWAfC0LEE6w?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/>
-  </a> 
-  <a href="mailto:leticiapequeno30@gmail.com?subject=Hello%20Leticia,%20From%20Github">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://calendly.com/leticiapequeno30/30min">
-    <img src="https://img.shields.io/badge/-Calendly-green?style=for-the-badge&logo=google-calendar&logoColor=white&link="/>
-  </a>
-</div> 
-
-
 <p align="left"> 
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://developers.weixin.qq.com/miniprogram/dev/framework" target="_blank"> <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg-blog.csdnimg.cn%2F20210126103729673.png&refer=http%3A%2F%2Fimg-blog.csdnimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1672813436&t=24aeb66466113e30a9a821b25c4ade03" alt="wx" width="50" height="40"/> </a>
