@@ -8,7 +8,7 @@
  
    <a href="https://baomidou.com" target="_blank"> <img src="https://baomidou.com/img/logo.svg" alt="mybatis-plus" width="40" height="40"/> </a>
   
-   <a href="https://www.typescriptlang.org/zh/" target="_blank"> <img src=" https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg-blog.csdnimg.cn%2Fimg_convert%2F31db7dd702f9adda6eecc6eb69309ee4.png&refer=http%3A%2F%2Fimg-blog.csdnimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1672812216&t=855e1d395af1229c2bc27be02c85a32a" alt="tyscript" width="40" height="40"/> </a>
+   <a href="https://www.typescriptlang.org/zh/" target="_blank"> <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg-blog.csdnimg.cn%2Fimg_convert%2F31db7dd702f9adda6eecc6eb69309ee4.png&refer=http%3A%2F%2Fimg-blog.csdnimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1672812216&t=855e1d395af1229c2bc27be02c85a32a" alt="tyscript" width="40" height="40"/> </a>
 
  
  
