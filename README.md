@@ -13,7 +13,7 @@
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=coderwhy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
 
-### 🎧 Spotify Playing
+### :sparkles: My Followers
 
 <table>
   <tr>
