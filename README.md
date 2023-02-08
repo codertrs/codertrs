@@ -21,13 +21,7 @@
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/coderwhy">
-        <img src="https://avatars.githubusercontent.com/u/10335230?v=4" width="100px;" alt="coderwhy"/>
-      </a>
-      <br />
-      <a href="https://github.com/coderwhy">coderwhy</a>
-    </td>
+ 
     <td align="center">
       <a href="https://github.com/loclink">
         <img src="https://avatars.githubusercontent.com/u/106688231?v=4" width="100px;" alt="Loclink"/>
