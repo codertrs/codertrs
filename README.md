@@ -21,6 +21,13 @@
 
 <table>
   <tr>
+   <td align="center">
+  <a href="https://github.com/loclink">
+    <img src="https://avatars.githubusercontent.com/u/106688231?v=4" width="100px;" alt="Loclink"/>
+  </a>
+  <br />
+  <a href="https://github.com/loclink">Loclink</a>
+</td>
  
     <td align="center">
       <a href="https://github.com/loclink">
